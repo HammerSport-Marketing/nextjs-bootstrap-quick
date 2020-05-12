@@ -44,9 +44,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 You must have NodeJS installed
 
-```
 [Download NodeJS](https://nodejs.org/en/download/)
-```
 
 ### Installing
 
