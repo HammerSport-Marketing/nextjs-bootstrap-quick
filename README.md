@@ -34,7 +34,10 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This is our first attempt at nextjs blog with a bootstrap theme. 
+Feel free to fork this and make it your own!
+
+### No PRs!
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
