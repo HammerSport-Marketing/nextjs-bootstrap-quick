@@ -42,73 +42,54 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+You must have NodeJS installed
 
 ```
-Give examples
+[Download NodeJS](https://nodejs.org/en/download/)
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
+Clone Github Rep
 
 ```
-Give the example
+git clone https://github.com/HammerSport-Marketing/nextjs-bootstrap-quick.git
 ```
 
-And repeat
+Navigate to newly cloned directory
 
 ```
-until finished
+cd nextjs-bootstrap-quick
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Install Dependencies
 
 ```
-Give an example
+yarn or npm i
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
+Start Development Server
 
 ```
-Give an example
+yarn dev or npm run dev
 ```
 
-## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
+- [NextJs](https://vuejs.org/) - Web Framework
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@rileyseaburg](https://github.com/rileyseaburg) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/HammerSport-Marketing/nextjs-bootstrap-quick/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- Lewis May - CEO
+- Frank Ponte - Freelance developer
