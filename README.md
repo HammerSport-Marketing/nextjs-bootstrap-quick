@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img  src="https://i.imgur.com/MI1FKzW.png" alt="Project logo"></a>
+ <img width="200px" src="https://i.imgur.com/MI1FKzW.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">HammerSport Marketing Web App</h3>
