@@ -25,6 +25,7 @@ export default function Home() {
         >
           <img src="/assets/img/brand/logo.png" alt="HammerSport Logo" className="logo m-4 w-25 " />
         </a>
+        <script src="/assets/libs/feather-icons/dist/feather.min.js"></script>
       </footer>
     </div>
   );
